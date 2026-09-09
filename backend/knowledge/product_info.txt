@@ -1,0 +1,21 @@
+Product Name: AlgoProtect AI
+
+Overview:
+AlgoProtect AI is an enterprise B2B platform designed to automate software and algorithm patent protection analysis. It helps engineering teams and legal departments quickly evaluate the patentability of new software architectures.
+
+Key Features:
+
+Automated Prior Art Search: Scans global databases to find existing algorithmic patents within seconds.
+
+Framework Comparison Engine: Automatically evaluates software claims against current legal frameworks in both India and the United States to determine patent viability.
+
+Codebase Integration: Natively connects with modern full-stack environments (including React and Node.js) to flag potential intellectual property conflicts during the development lifecycle.
+
+Value Proposition:
+By automating the initial IP research phase, AlgoProtect saves legal and engineering teams an average of 400 hours per quarter and reduces external legal consultation fees by 30%.
+
+Pricing Tiers:
+
+Starter: $499/month (up to 50 repository scans)
+
+Enterprise: $1,200/month (unlimited scans and priority legal framework updates)
